@@ -57,3 +57,5 @@ Please make sure that you clone the project instead of forking it.
 
 # Edit
 Hi , I would like to place my submission to the project. The index.py within the index_model has been updated and all the libraries. Also the requirements.txt has been updated with pandas dependency.
+
+Simply run the __main__.py and you can get the export.csv file with the index levels.
